@@ -5378,6 +5378,9 @@
 		syncSlide: syncSlide,
 		syncFragments: syncFragments,
 
+		// Fullscreen method
+		enterFullscreen: enterFullscreen,
+
 		// Navigation methods
 		slide: slide,
 		left: navigateLeft,
